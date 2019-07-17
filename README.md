@@ -13,4 +13,4 @@
 2. [p5-manager Tutorial](https://www.youtube.com/watch?v=LdWleSHQTcw)
 
 **Code:**
-[Image Classification](https://github.com/gapgag55/100-days-learning/tree/master/image-classification)
+1. [Image Classification](https://github.com/gapgag55/100-days-learning/tree/master/image-classification)
