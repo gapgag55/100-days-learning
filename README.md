@@ -2,7 +2,7 @@
 
 ## Day 1 - July 17, 2019
 
-**Topic:** 
+**Topic:**  
 P5.js and ML5.js Image classification with Mobilenet  
 
 **What I learnt:** 
