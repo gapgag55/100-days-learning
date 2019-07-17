@@ -3,7 +3,7 @@
 ## Day 1 - July 17, 2019
 
 **Topic:** 
-P5.js and ML5.js Image classification with Mobilenet  
+Machine Learning with ML5.js
 
 **What have I learnt:** 
 1. Supervised learning is related to bunch of datasets which given to the system to learning
