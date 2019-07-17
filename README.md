@@ -15,6 +15,7 @@ P5.js and ML5.js Image classification with Mobilenet
 **Result:**
 1. [Image Classification](https://github.com/gapgag55/100-days-learning/tree/master/image-classification)
 2. [Webcam Image Classification](https://github.com/gapgag55/100-days-learning/tree/master/webcam-image-classification)
+3. [Feature Extractor Classification](https://github.com/gapgag55/100-days-learning/tree/master/feature-extractor-classification)
 
 **Resource:**
 1. [ML5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=2)
