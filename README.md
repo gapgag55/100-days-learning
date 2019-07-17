@@ -22,4 +22,4 @@ Machine Learning with ML5.js
 1. [ML5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=2)
 2. [P5 Manager Tutorial](https://www.youtube.com/watch?v=LdWleSHQTcw)
 
-## Day 2 - July 17, 2019
+## Day 2 - July 18, 2019
