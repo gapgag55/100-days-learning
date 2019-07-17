@@ -5,7 +5,7 @@
 **Topic:** 
 P5.js and ML5.js Image classification with Mobilenet  
 
-**What I learnt:** 
+**What have I learnt:** 
 1. Supervised learning is related to bunch of datasets which given to the system to learning
 2. Mobilenet is a set of models of algorithms for Machine Learning
 3. P5-manager is a tool for ease of workflow
