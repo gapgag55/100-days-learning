@@ -32,7 +32,3 @@ function setup() {
 	puffin.hide();
 	mobilenet = ml5.imageClassifier('MobileNet', modelReady);
 }
-
-function draw() {
-
-}

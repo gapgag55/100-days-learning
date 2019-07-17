@@ -1,6 +1,7 @@
 {
   "name": "p5",
   "projects": [
-    "image-classification"
+    "image-classification",
+    "webcam-image-classification"
   ]
 }
