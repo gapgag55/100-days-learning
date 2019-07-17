@@ -12,11 +12,11 @@ P5.js and ML5.js Image classification with Mobilenet
 4. Tensorflow.js is a library on top of Tensorflow which interprets only python to c++
 5. ML5 is a library on top of Tensorflow.js
 
+**Result:**
+1. [Image Classification](https://github.com/gapgag55/100-days-learning/tree/master/image-classification)
+
 **Resource:**
 1. [ml5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=2)
 2. [p5-manager Tutorial](https://www.youtube.com/watch?v=LdWleSHQTcw)
-
-**Result:**
-1. [Image Classification](https://github.com/gapgag55/100-days-learning/tree/master/image-classification)
 
 ## Day 2 - July 17, 2019
