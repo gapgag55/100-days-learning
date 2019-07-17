@@ -11,7 +11,7 @@ P5.js and ML5.js Image classification with Mobilenet
 3. P5-manager is a tool for ease of workflow
 4. Tensorflow.js is a library on top of Tensorflow which interprets only python to c++
 5. ML5 is a library on top of Tensorflow.js
-6. Feature Extractor is the process to extract the feature from the input such as image or video into the number combined with ML algorithm then become the model
+6. Feature Extractor is the process to extract the feature from the input such as image or video into the number combined with ML algorithm become the classifier model
 
 **Result:**
 1. [Image Classification](https://github.com/gapgag55/100-days-learning/tree/master/image-classification)
