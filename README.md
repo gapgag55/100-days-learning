@@ -9,5 +9,5 @@
 5. ML5 is a library on top of Tensorflow.js
 
 **Resource:**
-1. (ml5.js: Image Classification with MobileNet)[https://www.youtube.com/watch?v=yNkAuWz5lnY&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=2]
-2. (p5-manager Tutorial)[https://www.youtube.com/watch?v=LdWleSHQTcw]
+1. [ml5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=2)
+2. [p5-manager Tutorial](https://www.youtube.com/watch?v=LdWleSHQTcw)
