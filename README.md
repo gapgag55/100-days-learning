@@ -1,6 +1,6 @@
 # 100-days-learning
 
-## Day 1 - Image classification with Mobilenet
+## Day 1 - P5.js and ML5.js Image classification with Mobilenet
 **What I learnt:** 
 1. Supervised learning is related to bunch of datasets which given to the system to learning
 2. Mobilenet is a set of models of algorithms for Machine Learning
