@@ -18,3 +18,5 @@ P5.js and ML5.js Image classification with Mobilenet
 
 **Result:**
 1. [Image Classification](https://github.com/gapgag55/100-days-learning/tree/master/image-classification)
+
+## Day 2 - July 17, 2019
