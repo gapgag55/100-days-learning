@@ -4,7 +4,7 @@
 **What I learnt:** 
 1. Supervised learning is related to bunch of datasets which given to the system to learning
 2. Mobilenet is a set of models of algorithms for Machine Learning
-3. P5-manager is a tool for ease-of-use workflow
+3. P5-manager is a tool for ease of workflow
 4. Tensorflow.js is a library on top of Tensorflow which interprets only python to c++
 5. ML5 is a library on top of Tensorflow.js
 
