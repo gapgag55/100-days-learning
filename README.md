@@ -11,3 +11,6 @@
 **Resource:**
 1. [ml5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=2)
 2. [p5-manager Tutorial](https://www.youtube.com/watch?v=LdWleSHQTcw)
+
+**Code:**
+[Image Classification](https://github.com/gapgag55/100-days-learning/tree/master/image-classification)
