@@ -4,6 +4,7 @@
     "image-classification",
     "webcam-image-classification",
     "feature-extractor-classification",
-    "feature-extractor-regression"
+    "feature-extractor-regression",
+    "save-load-model"
   ]
 }

@@ -29,9 +29,12 @@ Machine Learning with ML5.js (Cont.)
 **What have I learnt:** 
 1. Classification in feature extraction ML5.js is just classifying particular image with specific label
 2. Regression in feature extraction ML5.js releated to assign the number to particular image as the label
+3. When model is saved, there are two file model.json and model.weight.bin whereas model.json contains the neuron networks and model.weight.bin contains the weight of each neuron networks
 
 **Result:**
 1. [ML5.js: Feature Extractor Regression](https://github.com/gapgag55/100-days-learning/tree/master/feature-extractor-regression)
+2. [ML5.js: Save and Load Model](https://github.com/gapgag55/100-days-learning/tree/master/save-load-model)
 
 **Resource:**
 1. [ML5.js: Feature Extractor Regression](https://www.youtube.com/watch?v=aKgq0m1YjvQ&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=6)
+2. [ML5.js: Save and Load Model](https://www.youtube.com/watch?v=eU7gIy3xV30&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=7)
