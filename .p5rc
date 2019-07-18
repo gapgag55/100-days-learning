@@ -3,6 +3,7 @@
   "projects": [
     "image-classification",
     "webcam-image-classification",
-    "feature-extractor-classification"
+    "feature-extractor-classification",
+    "feature-extractor-regression"
   ]
 }

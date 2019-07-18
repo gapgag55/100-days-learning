@@ -23,3 +23,15 @@ Machine Learning with ML5.js
 2. [P5 Manager Tutorial](https://www.youtube.com/watch?v=LdWleSHQTcw)
 
 ## Day 2 - July 18, 2019
+**Topic:** 
+Machine Learning with ML5.js (Cont.)
+
+**What have I learnt:** 
+1. In classification of feature extraction ML5.js is just classifying particular image with specific label
+2. In regression of feature extraction ML5.js releated to assign the number to particular image as the label
+
+**Result:**
+1. [ML5.js: Feature Extractor Regression]()
+
+**Resource:**
+1. [ML5.js: Feature Extractor Regression](https://www.youtube.com/watch?v=aKgq0m1YjvQ&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=6)
