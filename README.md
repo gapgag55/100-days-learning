@@ -27,8 +27,8 @@ Machine Learning with ML5.js
 Machine Learning with ML5.js (Cont.)
 
 **What have I learnt:** 
-1. In classification of feature extraction ML5.js is just classifying particular image with specific label
-2. In regression of feature extraction ML5.js releated to assign the number to particular image as the label
+1. Classification in feature extraction ML5.js is just classifying particular image with specific label
+2. Regression in feature extraction ML5.js releated to assign the number to particular image as the label
 
 **Result:**
 1. [ML5.js: Feature Extractor Regression]()
