@@ -47,7 +47,7 @@ Machine Learning with ML5.js (Cont.)
 1. MobileNet is an image model which has more than 1,000 image classification
 2. Semantic Fingerprint is the output of neuron network process and can be named as a logits
 3. When normalizing the logits, the output of array will become the probability of label 
-4. KNN in ML5.js is just add logits with label to knn.addExample(logits, label)
+4. In training, KNN with ML5.js is just add logits with label to knn.addExample(logits, label)
 5. KNN uses cosine similarity to calculate distance each of logits
    
 **Result:**
