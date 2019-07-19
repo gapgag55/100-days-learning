@@ -38,3 +38,23 @@ Machine Learning with ML5.js (Cont.)
 **Resource:**
 1. [ML5.js: Feature Extractor Regression](https://www.youtube.com/watch?v=aKgq0m1YjvQ&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=6)
 2. [ML5.js: Save and Load Model](https://www.youtube.com/watch?v=eU7gIy3xV30&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=7)
+
+## Day 3 - July 19, 2019
+**Topic:** 
+Machine Learning with ML5.js (Cont.)
+
+**What have I learnt:** 
+1. MobileNet is an image model which has more than 1,000 image classification
+2. Semantic Fingerprint is the output of neuron network process and can be named as a logits
+3. When normalizing the logits, the output of array will become the probability of label 
+4. KNN in ML5.js is just add logits with label to knn.addExample(logits, label)
+5. KNN uses cosine similarity to calculate distance each of logits
+   
+**Result:**
+1. [ML5.js: K-nearest-neighbor](https://github.com/gapgag55/100-days-learning/tree/master/KNN-classification)
+
+
+**Resource:**
+1. [ML5.js: KNN Classification Part 1](https://www.youtube.com/watch?v=KTNqXwkLuM4&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=8)
+2. [ML5.js: KNN Classification Part 2](https://www.youtube.com/watch?v=KTNqXwkLuM4&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=9)
+3. [ML5.js: KNN Classification Part 3](https://www.youtube.com/watch?v=KTNqXwkLuM4&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=10)

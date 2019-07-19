@@ -5,6 +5,7 @@
     "webcam-image-classification",
     "feature-extractor-classification",
     "feature-extractor-regression",
-    "save-load-model"
+    "save-load-model",
+    "KNN-classification-part1"
   ]
 }
