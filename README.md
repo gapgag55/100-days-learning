@@ -56,6 +56,25 @@ Machine Learning with ML5.js (Cont.)
 
 **Resource:**
 1. [ML5.js: KNN Classification Part 1](https://www.youtube.com/watch?v=KTNqXwkLuM4&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=8)
-2. [ML5.js: KNN Classification Part 2](https://www.youtube.com/watch?v=KTNqXwkLuM4&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=9)
+2. [ML5.js: **KNN** Classification Part 2](https://www.youtube.com/watch?v=KTNqXwkLuM4&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=9)
 3. [ML5.js: KNN Classification Part 3](https://www.youtube.com/watch?v=KTNqXwkLuM4&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=10)
 4. [How to build a Teachable Machine with TensorFlow.js](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
+
+
+## Day 4 - July 20, 2019
+**Topic:** 
+Learning English on Level 0 - breakingenglishnews.com
+
+**What have I learnt:** 
+1. Word spelling such as worked, ask, health, advice of, latest, privacy
+2. Reading with speed 100, 200, 300 WPM
+3. Phase matching
+4. Listen and fill in the gaps
+5. Put a slash where the spaces are
+
+   
+**Result:**
+1. Feel good with english. It's pretty straightforward
+
+**Resource:**
+1. [Amazon Alexa to answer questions on health](https://breakingnewsenglish.com/1907/190712-alexa-0.html)
